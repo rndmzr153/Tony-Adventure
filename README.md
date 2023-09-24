@@ -18,6 +18,7 @@ KEYBOARD CONTROLS
 [X] - Causes Tony's movement speed to increase.
 
 [W] - Allows Tony to climb up certain walls.
+[S] - Allows Tony to climb down certain walls.
 [A] - Causes Tony to move towards the left.
 [D] - Causes Tony to move towards the right.  
 
